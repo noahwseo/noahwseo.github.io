@@ -31,7 +31,7 @@ bio: I serve as a psychometrician and research associate at the University of Vi
 interests:
   - Scale Development
   - Rasch Model
-  - Depression & Suicide
+  - Major Depressive Disorder
   - Borderline Personality Disorder
   - Psychological Resilience
   - Positive Clinical Psychology
