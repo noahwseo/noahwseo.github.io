@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Wonjin is a psychometrician and working in a clinical psychology lab. at the University of Victoria. Wonjin has displayed a keen interest in developing measurement tools, particularly self-report questionnaires, within the realms of clinical and health psychology. As a psychometrician, he is committed to creating well-validated questionnaires and enhancing the validity of existing tools. 
+Wonjin is a psychometrician and working in a clinical psychology lab. at the University of Victoria. As a psychometrician, he is committed to creating well-validated questionnaires and enhancing the validity of existing tools. 
 {style="text-align: justify;"}
