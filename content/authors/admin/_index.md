@@ -131,7 +131,5 @@ social:
 highlight_name: true
 ---
 
-After earning his Ph.D., Wonjin began working in a clinical psychology lab at the University of Victoria. As a psychometrician, he is dedicated to creating well-validated questionnaires and enhancing the validity of existing tools. Currently, he is planning to pursue another Ph.D. to realize his dream of becoming a licensed clinical psychologist.
-
-
+After earning his Ph.D., Wonjin began working in a clinical psychology lab at the University of Victoria. As a psychometrician, he is dedicated to creating well-validated questionnaires and enhancing the validity of existing tools. Currently, he is planning to pursue another Ph.D. to realize his dream of becoming a licensed clinical psychologist. <br><br>
 {style="text-align: justify;"}
