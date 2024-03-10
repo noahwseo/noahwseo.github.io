@@ -25,7 +25,7 @@ organizations:
     url: https://www.uvic.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include scale development and validation in psychology.
+bio: I serve as a psychometrician and research associate at the University of Victoria.
 
 # Interests to show in About widget
 interests:
@@ -54,12 +54,12 @@ skills:
     items:
       - name: R & Winsteps
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Item Response Theory
         description: ''
-        percent: 85
+        percent: 95
         icon: chart-line
         icon_pack: fas
       - name: Structural Equation Modeling
@@ -78,12 +78,12 @@ skills:
         icon_pack: fas
       - name: English
         description: ''
-        percent: 90
+        percent: 95
         icon: cat
         icon_pack: fas
-      - name: French & Japanese
+      - name: Japanese
         description: ''
-        percent: 15
+        percent: 20
         icon: camera-retro
         icon_pack: fas
 
