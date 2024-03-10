@@ -3,7 +3,7 @@
 title: Wonjin Seo
 
 # Name pronunciation (optional)
-<!-- name_pronunciation: Chien Shiung Wu -->
+<!-- name_pronunciation: Wonjin Seo -->
 
 # Full name (for SEO)
 first_name: Wonjin
@@ -31,10 +31,8 @@ bio: My research interests include scale development and validation in psycholog
 interests:
   - Scale Development
   - Rasch Model
-  - Ecological Momentary Assessment
   - Depression & Suicide
-  - Positive & Clinical Psychology
-  - Resilience & Optimism
+  - Positive Clinical Psychology
 
 # Education to show in About widget
 education:
