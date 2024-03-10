@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wonjin Seo
+title: Wonjin Seo, Ph.D.
 
 # Name pronunciation (optional)
 <!-- name_pronunciation: Chien Shiung Wu -->
@@ -51,31 +51,31 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Psychometrics
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Walking
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Puppies
         description: ''
         percent: 100
         icon: cat
@@ -120,5 +120,4 @@ social:
 highlight_name: true
 ---
 
-Wonjin Seo is a research associate in the Clinical Psychology Lab at the University of Victoria. His research interests include scale development and validation, psychometrics, and clinical psychology.
-{style="text-align: justify;"}
+Wonjin completed his PhD in Health and Rehabilitation Sciences with a specialization in Measurement and Methods at the University of Western Ontario in January 2024. With a background in Clinical Health Psychology during his master’s studies, Wonjin has displayed a keen interest in developing measurement tools, particularly self-report questionnaires, within the realms of clinical and health psychology. As a psychometrician, he is committed to creating well-validated questionnaires and enhancing the validity of existing tools. {style="text-align: justify;"}
