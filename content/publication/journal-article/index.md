@@ -1,12 +1,15 @@
 ---
-title: "An example journal article"
+title: "The mediating effects of self-efficacy in the relationship between loneliness and addiction to social media."
 authors:
 - admin
-- Robert Ford
+- Mirihae Kim
+- Jungho Kim
+- Chad Ebesutani
+- Insung Jo
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "First author"
+- "Corresponding author"
+date: "2015-12-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
