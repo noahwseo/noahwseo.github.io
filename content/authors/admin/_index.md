@@ -44,7 +44,7 @@ education:
     - course: M.A. in Clinical Health Psychology
       institution: Duksung Women's University
       year: 2016
-    - course: B.CP. student in Counseling Psychology
+    - course: B.CP. in Counseling Psychology
       institution: Seoul Digital University
       year: In Progress
     - course: B.A. in English
