@@ -120,4 +120,5 @@ social:
 highlight_name: true
 ---
 
-Wonjin completed his PhD in Health and Rehabilitation Sciences with a specialization in Measurement and Methods at the University of Western Ontario in January 2024. With a background in Clinical Health Psychology during his master’s studies, Wonjin has displayed a keen interest in developing measurement tools, particularly self-report questionnaires, within the realms of clinical and health psychology. As a psychometrician, he is committed to creating well-validated questionnaires and enhancing the validity of existing tools. {style="text-align: justify;"}
+Wonjin is a psychometrician and working in a clinical psychology lab. at the University of Victoria. Wonjin has displayed a keen interest in developing measurement tools, particularly self-report questionnaires, within the realms of clinical and health psychology. As a psychometrician, he is committed to creating well-validated questionnaires and enhancing the validity of existing tools. 
+{style="text-align: justify;"}
