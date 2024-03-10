@@ -31,8 +31,6 @@ bio: I serve as a psychometrician and research associate at the University of Vi
 interests:
   - Scale Development
   - Rasch Model
-  - Major Depressive Disorder
-  - Borderline Personality Disorder
   - Psychological Resilience
   - Positive Clinical Psychology
 
@@ -45,9 +43,6 @@ education:
     - course: M.A. in Clinical Health Psychology
       institution: Duksung Women's University
       year: 2016
-    - course: B.CP. in Counseling Psychology
-      institution: Seoul Digital University
-      year: In Progress
     - course: B.A. in English
       institution: Cyber Hankuk University of Foreign Studies
       year: 2011
@@ -74,7 +69,7 @@ skills:
         icon_pack: fas
       - name: Multilevel Modeling
         description: ''
-        percent: 80
+        percent: 85
         icon: database
         icon_pack: fas
   - name: Languages
@@ -98,7 +93,7 @@ skills:
         icon_pack: fas
       - name: French
         description: ''
-        percent: 15
+        percent: 5
         icon: camera-retro
         icon_pack: fas
 
