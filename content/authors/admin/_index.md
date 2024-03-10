@@ -30,8 +30,11 @@ bio: My research interests include scale development and validation in psycholog
 # Interests to show in About widget
 interests:
   - Scale Development
-  - Psychometrics
-  - Clinical Psychology
+  - Rasch Model
+  - Ecological Momentary Assessment
+  - Depression & Suicide
+  - Positive & Clinical Psychology
+  - Resilience & Optimism
 
 # Education to show in About widget
 education:
