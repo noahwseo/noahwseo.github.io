@@ -59,31 +59,31 @@ skills:
         icon_pack: fab
       - name: Item Response Theory
         description: ''
-        percent: 90
+        percent: 85
         icon: chart-line
         icon_pack: fas
       - name: Structural Equation Modeling
         description: ''
-        percent: 80
+        percent: 90
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Walking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Puppies
+      - name: Korean
         description: ''
         percent: 100
+        icon: person-hiking
+        icon_pack: fas
+      - name: English
+        description: ''
+        percent: 90
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: French & Japanese
         description: ''
-        percent: 80
+        percent: 15
         icon: camera-retro
         icon_pack: fas
 
