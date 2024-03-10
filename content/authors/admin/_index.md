@@ -59,12 +59,17 @@ skills:
         icon_pack: fab
       - name: Item Response Theory
         description: ''
-        percent: 95
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: Structural Equation Modeling
         description: ''
         percent: 90
+        icon: database
+        icon_pack: fas
+      - name: Multilevel Modeling
+        description: ''
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Languages
@@ -83,7 +88,12 @@ skills:
         icon_pack: fas
       - name: Japanese
         description: ''
-        percent: 20
+        percent: 30
+        icon: camera-retro
+        icon_pack: fas
+      - name: French
+        description: ''
+        percent: 15
         icon: camera-retro
         icon_pack: fas
 
