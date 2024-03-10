@@ -32,6 +32,7 @@ interests:
   - Scale Development
   - Rasch Model
   - Depression & Suicide
+  - Psychological Resilience
   - Positive Clinical Psychology
 
 # Education to show in About widget
@@ -43,6 +44,9 @@ education:
     - course: M.A. in Clinical Health Psychology
       institution: Duksung Women's University
       year: 2016
+    - course: B.CP. student in Counseling Psychology
+      institution: Seoul Digital University
+      year: Current
     - course: B.A. in English
       institution: Cyber Hankuk University of Foreign Studies
       year: 2011
@@ -131,5 +135,5 @@ social:
 highlight_name: true
 ---
 
-After earning his Ph.D., Wonjin began working in a clinical psychology lab at the University of Victoria. As a psychometrician, he is dedicated to creating well-validated questionnaires and enhancing the validity of existing tools. Currently, he is planning to pursue another Ph.D. to realize his dream of becoming a licensed clinical psychologist. <br><br>
+After earning his Ph.D., Wonjin began working in a clinical psychology lab at the University of Victoria. As a psychometrician, he is dedicated to creating well-validated questionnaires and enhancing the validity of existing tools. Currently, he is planning to pursue another Ph.D. to realize his dream of becoming a licensed clinical psychologist. <br>
 {style="text-align: justify;"}
