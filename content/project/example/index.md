@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Scale Development Project
+summary: Development and Validation of the Pain Resilience and Optimism Scale (PROS).
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - PROS
+date: '2024-03-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
