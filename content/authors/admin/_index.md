@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wonjin Seo, Ph.D.
+title: Wonjin Seo
 
 # Name pronunciation (optional)
 <!-- name_pronunciation: Chien Shiung Wu -->
