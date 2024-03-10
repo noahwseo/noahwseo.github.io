@@ -32,6 +32,7 @@ interests:
   - Scale Development
   - Rasch Model
   - Depression & Suicide
+  - Borderline Personality Disorder
   - Psychological Resilience
   - Positive Clinical Psychology
 
