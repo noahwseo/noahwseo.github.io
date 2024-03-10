@@ -57,14 +57,14 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Rasch Analysis
+      - name: Item Response Theory
         description: ''
         percent: 90
         icon: chart-line
         icon_pack: fas
-      - name: Psychometrics
+      - name: Structural Equation Modeling
         description: ''
-        percent: 90
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
