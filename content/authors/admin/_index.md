@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Measurement and Methods
-      institution: University of Western Ontario
+      institution: Western University
       year: 2024
     - course: M.A. in Clinical Health Psychology
       institution: Duksung Women's University
@@ -52,14 +52,14 @@ education:
 skills:
   - name: Technical
     items:
-      - name: R
+      - name: R & Winsteps
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Rasch Analysis
         description: ''
-        percent: 80
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: Psychometrics
