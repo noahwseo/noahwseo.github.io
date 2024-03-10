@@ -9,7 +9,7 @@ authors:
 author_notes:
 - "First author"
 - "Corresponding author"
-date: "2015-12-30T00:00:00Z"
+date: "2015-12-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +21,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*The Korean Journal of Woman Psychology, 20*(4), 497-512."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The purpose of the present study was to examine the mediating effects of self-efficacy in the relationship between loneliness and social media addiction. The study was based on 341 undergraduate female students (mean age=20.52 years, SD=1.85) at a university in Seoul, Korea who completed the Revised UCLA Loneliness Scale, Self-Efficacy Scale, and SNS Addiction Tendency Scale. Based on the correlational analyses, results revealed that loneliness was negatively related with self-efficacy and positively related with social media addiction tendency. Self-efficacy was also negatively correlated with social media addiction tendency. Structural equation modeling analyses revealed that self-efficacy fully mediated the relationship between loneliness and social media addiction tendency. These results highlight the importance of evaluating self-efficacy when studying social media addiction, as well as addressing the effects that loneliness may have on self-efficacy in order to lower the risk for social media addiction. Study limitations are also discussed.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
