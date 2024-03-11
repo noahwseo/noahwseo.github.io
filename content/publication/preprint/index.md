@@ -1,7 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Holymoly"
 authors:
 - admin
+- Holycow
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
