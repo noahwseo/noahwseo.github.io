@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Rasch Model
+date: '2024-03-04'
+summary: Workshop on what Rasch model is and how to conduct it.
 ---
 
 
