@@ -1,15 +1,14 @@
 ---
-title: "Validation of a Korean Version of the Cyberbullying Scale"
+title: "A Validation Study of the Cyberbullying Scale-Korean Version"
 authors:
 - admin
-- Mirihae Kim
-- Jungho Kim
 - Chad Ebesutani
-- Insung Jo
+- Mirihae Kim
+- Teunsaem Lee
 author_notes:
 - "First author"
 - "Corresponding author"
-date: "2015-12-31T00:00:00Z"
+date: "2015-12-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Korean Journal of Woman Psychology, 20*(4), 497-512"
+publication: "*The Korean Journal of Health Psychology, 20*(4), 839-854"
 publication_short: ""
 
-abstract: The purpose of the present study was to examine the mediating effects of self-efficacy in the relationship between loneliness and social media addiction. The study was based on 341 undergraduate female students (mean age=20.52 years, SD=1.85) at a university in Seoul, Korea who completed the Revised UCLA Loneliness Scale, Self-Efficacy Scale, and SNS Addiction Tendency Scale. Based on the correlational analyses, results revealed that loneliness was negatively related with self-efficacy and positively related with social media addiction tendency. Self-efficacy was also negatively correlated with social media addiction tendency. Structural equation modeling analyses revealed that self-efficacy fully mediated the relationship between loneliness and social media addiction tendency. These results highlight the importance of evaluating self-efficacy when studying social media addiction, as well as addressing the effects that loneliness may have on self-efficacy in order to lower the risk for social media addiction. Study limitations are also discussed.
+abstract: The Cyberbullying Scale was previously developed to measure the degree to which adolescents experience cyberbullying via the internet. The aim of the present study was to validate the Korean version of the Cyberbullying Scale in a South Korean sample. The Cyberbullying Scale was administrated to 481 middle school Korean students. These students also completed the UCLA Loneliness Scale (LS), Eating Disorder Inventory-2 (EDI-2), Social Anxiety Scale for Adolescents (SAS-A), and the Korean Form of the Children's Depression Inventory (K-CDI). Both exploratory and confirmatory factor analysis supported a one factor solution. The Cyberbullying Scale total score also demonstrated satisfactory convergent validity and significant positive correlations with the LS, K-CDI and SAS-A. The Cyberbullying scale total score also evidenced satisfactory discriminant validity with the EDI-2. The Cyberbullying Scale total score was also associated with good reliability, as estimated via internal consistency. Implications and limitations of these results are discussed.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
