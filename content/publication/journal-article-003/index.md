@@ -9,7 +9,7 @@ author_notes:
 - "First author"
 - ""
 - "Corresponding author"
-date: "2015-12-31T00:00:00Z"
+date: "2018-01-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Korean Journal of Woman Psychology, 20*(4), 497-512"
+publication: "*Institute of Social Sciences Chungnam National University, 29*(1), 177-193"
 publication_short: ""
 
 abstract: When conducting psychological research, it is imperative to utilize appropriate measurement
