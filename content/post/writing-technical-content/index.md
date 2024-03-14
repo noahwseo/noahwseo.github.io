@@ -1,6 +1,6 @@
 ---
 title: Workshop - Rasch model 
-date: 2024-03-14
+date: 2024-03-13
 math: true
 image:
   placement: 2
