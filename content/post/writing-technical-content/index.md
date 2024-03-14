@@ -1,5 +1,5 @@
 ---
-title: Workshop - Rasch model 
+title: Workshop - Rasch Analysis in R
 date: 2024-03-13
 math: true
 image:
