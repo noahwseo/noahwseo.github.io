@@ -1,17 +1,17 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Workshop - Rasch model 
+date: 2024-03-14
 math: true
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Workshop title: Development of a measurement tool and evaluation of the appropriateness of each item and response category : Utilization of the Rasch model.
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+**The Spring Conference of the Korean Clinical Psychological Association, April 11, 2024**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
+On this page, you'll learn what the Rasch model is and how to conduct Rasch analysis in R.
 
 ## Examples
 
