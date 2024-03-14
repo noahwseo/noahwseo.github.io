@@ -43,9 +43,9 @@ education:
     - course: M.A. in Clinical Health Psychology
       institution: Duksung Women's University
       year: 2016
-    - course: B.A. in English
-      institution: Cyber Hankuk University of Foreign Studies
-      year: 2011
+    - course: B.CP. in Counseling Psychology
+      institution: Seoul Digital University
+      year: in progress
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
