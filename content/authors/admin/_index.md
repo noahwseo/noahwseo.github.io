@@ -54,12 +54,12 @@ skills:
     items:
       - name: R & Winsteps
         description: ''
-        percent: 100
+        percent: 95
         icon: python
         icon_pack: fab
-      - name: Item Response Theory
+      - name: Factor Analysis & Rasch Analysis
         description: ''
-        percent: 90
+        percent: 100
         icon: chart-line
         icon_pack: fas
       - name: Structural Equation Modeling
