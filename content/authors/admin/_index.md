@@ -45,7 +45,7 @@ education:
       year: 2016
     - course: B.CP. in Counseling Psychology
       institution: Seoul Digital University
-      year: in progress
+      year: In progress
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
